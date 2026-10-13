@@ -47,11 +47,19 @@ The STM32 samples an analog input from **Custom made Signal Generator (555-Timer
 ## Gallery
 
 <p align="center">
-  <img src="images\IMG_20261013_014545.jpeg" alt="Hardware" width="600">
+  <img src="images\IMG_20261013_014545.jpeg" alt="Hardware-01" width="600">
+</p>
+
+<p align="center">
+  <img src="images\IMG_20261013_003812.jpg" alt="Hardware-02" width="600">
 </p>
 
 <p align="center">
   <img src="images\Screenshot_1433.jpg" alt="Waveform-GUI" width="600">
+</p>
+
+<p align="center">
+  <img src="images\oscilloscope_20261013_011926.png" alt="Waveform-Screenshot" width="600">
 </p>
 
 ---
